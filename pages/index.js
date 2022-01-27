@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <section className="intro">
-        <h1>HI, I'M IZI OMOZIKU</h1>
+        <h1>HI, I AM IZI OMOZIKU</h1>
         <p>
           I’m a web developer based in Vaughan, ON creating products people love
           through data-driven design and front-end development.
@@ -93,7 +93,7 @@ export default function Home() {
           </div>
           <div className="education_wrapper">
             <h3>Bachelor of Biochemistry and Business</h3>
-            <span>Queen's University - Kingston, ON</span> <br />
+            <span>Queens University - Kingston, ON</span> <br />
             <span>2015 - 2019</span>
           </div>
         </section>
