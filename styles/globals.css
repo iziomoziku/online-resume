@@ -160,10 +160,11 @@ h3 {
 .resume {
   margin-top: 0.5em;
   text-align: center;
+  text-decoration: underline;
 }
 
 .resume:hover {
-  text-decoration: underline;
+  font-weight: bolder;
 }
 
 /*******************************/

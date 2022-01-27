@@ -106,11 +106,15 @@ export default function Home() {
               <Button value="CONTACT ME" />
             </a>
           </Link> */}
-          <p>Send me an email at</p>
+          <span>Send me an email at</span>
           <Button value="iziomoziku@yahoo.com" />
-          <a href="/Izi_Omoziku.pdf" download className="resume">
-            OR download my resume to learn more about me
-          </a>
+          <span>
+            OR{" "}
+            <a href="/Izi.pdf" download className="resume">
+              click here
+            </a>{" "}
+            to download my resume to learn more about me
+          </span>
         </section>
 
         <div className="divider"></div>
