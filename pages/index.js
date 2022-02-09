@@ -34,6 +34,7 @@ export default function Home() {
                 <Link href="https://hvac.vercel.app/">
                   <a target="_blank">
                     <Image src="/Hvac_logo.svg" width={100} height={100} />
+                    <span className="resume">Click here</span>
                   </a>
                 </Link>
               </div>
@@ -62,6 +63,7 @@ export default function Home() {
                       width={115}
                       height={115}
                     />
+                    <span className="resume">Click here</span>
                   </a>
                 </Link>
               </div>

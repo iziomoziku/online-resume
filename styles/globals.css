@@ -110,6 +110,11 @@ h3 {
   cursor: pointer;
 }
 
+.website a {
+  display: flex;
+  flex-direction: column;
+}
+
 .website1 {
   background-color: #8da4d2;
 }
